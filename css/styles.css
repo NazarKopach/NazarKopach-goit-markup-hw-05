@@ -567,7 +567,6 @@ font-weight: 500;
     display:flex;
     justify-content: center;
     align-items:center;
-    gap: 16px;
     font-weight: 500;
     border-radius: 4px;
     min-width: 165px;
