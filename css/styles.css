@@ -550,6 +550,9 @@ font-weight: 500;
         padding-left: 16px;
         background-color:transparent;
         box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        transition-property: background-color;
+            transition-duration: 250ms;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .subscribe-form-submit {
